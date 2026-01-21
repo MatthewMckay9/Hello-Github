@@ -9,6 +9,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello, GitHub!" << endl;
+    cout << "Hello, world!" << endl;
     return 0;
 }
